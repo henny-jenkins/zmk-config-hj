@@ -61,7 +61,7 @@
             display-name = "Rai";
             bindings = <
 &mo 0   &trans  &trans  &trans  &trans  &bootloader                    &trans    &trans      &trans        &trans     &trans  &bootloader
-&trans  &trans  &trans  &trans  &trans  &trans                         &trans    &trans      &trans        &trans     &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans                         &trans    &kp HOME    &kp END       &trans     &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans                         &kp LEFT  &kp DOWN    &kp UP_ARROW  &kp RIGHT  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans       &trans    &trans  &trans    &trans      &trans        &trans     &trans  &trans
                         &trans  &trans  &trans       &trans    &trans  &trans    &kp DELETE  &trans
